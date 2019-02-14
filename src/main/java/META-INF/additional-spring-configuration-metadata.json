@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "basic",
+    "type": "java.lang.String",
+    "description": "A description for 'basic'"
+  },
+  {
+    "name": "environments",
+    "type": "java.lang.String",
+    "description": "A description for 'environments'"
+  }
+]}
